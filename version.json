@@ -1,0 +1,12 @@
+{
+  "version_name": "1.6.0",
+  "version_code": 160,
+  "release_date": "26 سبتمبر 2026",
+  "download_url": "https://github.com/sifhann-sketch/EmbriScope/releases/latest/download/embri_scop.apk",
+  "changelog": [
+    "✨ الإصدار v1.6.0 الرسمي المحدث كلياً لتطبيق EmbriScope",
+    "✨ دعم التحديث الهوائي الفوري من المستودع العام (Public Repo)",
+    "✨ اسم التطبيق والمستودع الرسمي EmbriScope",
+    "✨ زر سهم التحديثات المباشرة لتنزيل أحدث نسخة بنقرة واحدة"
+  ]
+}
